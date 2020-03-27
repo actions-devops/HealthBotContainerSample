@@ -64,7 +64,7 @@ function initBotConversation() {
                                     type: "invoke",
                                     name: "TriggerScenario",
                                     value: {
-                                        trigger: "covid19"
+                                        trigger: "covid19_menu"
                                    
                                     }
                                 }
